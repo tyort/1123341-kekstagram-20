@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Тё](https://up.htmlacademy.ru/javascript/20/user/1123341).
-* Наставник: `Неизвестно`.
+* Наставник: `Сам себе наставник`.
 
 ---
 
